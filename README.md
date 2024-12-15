@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+HEAD
 "# gebi-gubaye" 
 =======
 # gebigubaye

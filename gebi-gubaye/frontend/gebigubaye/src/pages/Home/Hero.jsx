@@ -13,6 +13,7 @@ function Hero() {
           <div>
               <button className='button' >Sign up</button>
               <button className='button'>hi alzo</button>
+               <input className='button' type='text' placeholder='it only for alzo .....'/>
               </div>
           </div>
           <input className='button' type='text' placeholder='it only for alzo .....'/>
